@@ -9,13 +9,13 @@ const options = {
       contact: {
         name: "Hafiz Muneeb",
         email: "muneebafzal381a@gmail.com",
-        url: "https://github.com/DesmondSanctity/node-js-swagger",
+        url: "https://github.com/Muneeb381a/Api_documentation_with_swagger",
       },
       version: "1.0.0",
     },
     servers: [
       {
-        url: "http://localhost:8080/",
+        url: "http://localhost:8000/",
         description: "Local server",
       },
       {
