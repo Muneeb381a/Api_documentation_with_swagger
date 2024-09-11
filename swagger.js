@@ -15,7 +15,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:8000/",
+        url: "https://api-documentation-with-swagger-n8zfa0kb2-hafiz-muneebs-projects.vercel.app/",
         description: "server",
       },
       {
