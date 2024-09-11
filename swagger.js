@@ -16,7 +16,7 @@ const options = {
     servers: [
       {
         url: "http://localhost:8000/",
-        description: "Local server",
+        description: "server",
       },
       {
         url: "<your live url here>",
